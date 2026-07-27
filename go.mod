@@ -1,6 +1,6 @@
 module github.com/pushm0v/golddigger
 
-go 1.25.7
+go 1.24.0
 
 require github.com/PuerkitoBio/goquery v1.11.0
 
