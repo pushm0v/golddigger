@@ -1,0 +1,19 @@
+go.mod
+  s_6a3ed8835592d7::t_239598f1a5ec5c 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "d5f0f848fc1c69a02c557ff39c93b46d9ee98419",
+  "prompts": {},
+  "sessions": {
+    "s_6a3ed8835592d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e48315ba-73a4-4d6a-854f-8693842acda0",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Muhammad Taufan <mtaufan@salamsetara.com>"
+    }
+  }
+}
